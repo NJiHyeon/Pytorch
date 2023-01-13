@@ -17,6 +17,10 @@
   - 7) 아이돌 무대 자동 교차편집 생성
 - 출처 : 파이토치 딥러닝 프로젝트 모음집 도서 참고
 
-#### :green_book: Pytorch-Full-Tutorial
+#### 📘 폴더 딥러닝을 위한 파이토치 입문
+- 기초적인 파이토치 및 파이썬 코드 복습용
+- 출처 : http://www.yes24.com/Product/Goods/106014660
+
+#### :green_book: Pytorch-Full-Tutorial.ipynb
 - 기본적이지만 꼭 알아야 할 파이토치 코드로 구성되어 있습니다. 
 - 출처 : 이수안연구소 유튜브 강의 참고
