@@ -23,6 +23,10 @@
 
 #### :green_book: 파이토치 강의
 - 유튜브, 인터넷 강의 등을 참고하여 구성된 파일
-  - 1) Pytorch-Full-Tutorial.ipynb
+  - 1) 이수안연구소
     - 기본적이지만 꼭 알아야 할 파이토치 코드로 구성되어 있습니다. 
     - 출처 : [이수안연구소 유튜브 강의](https://www.youtube.com/watch?v=k60oT_8lyFw)
+  - 2) 코딩애플
+    - 딥러닝 개념을 엄청 쉽게 알려준 강의 !!
+    - 딥러닝을 처음 접하는 사람들이 보면 좋을 것 같습니다.
+    - 출처 : [텐서플로우 딥러닝 기초](https://www.youtube.com/watch?v=ivfp2wpPLzs&list=PLfLgtT94nNq1DrREU_qG2w4yd2ZzJb-FG)
